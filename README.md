@@ -63,32 +63,28 @@ There are 206 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -105,11 +101,10 @@ There are 206 **ommitted** fragments!
 |8.|__front__|2||
 |9.|__g__|756| @__ref__ (756) : char:EOLhyphen (301), char:cmbAbbrStroke (441), char:punc (5), char:EOLunhyphen (9)|
 |10.|__gap__|206| @__reason__ (206) : illegible (206)  •  @__resp__ (206) : #APEX (206)  •  @__extent__ (206) : 1+ letters (181), 1 word (23), 1 page (2)|
-|11.|__group__|1||
-|12.|__head__|2||
-|13.|__note__|56| @__place__ (56) : margin (56)|
-|14.|__p__|17||
-|15.|__pb__|66| @__facs__ (66) : tcp:2228:1 (2), tcp:2228:2 (2), tcp:2228:3 (2), tcp:2228:4 (2), tcp:2228:5 (2), tcp:2228:6 (2), tcp:2228:7 (2), tcp:2228:8 (2), tcp:2228:9 (2), tcp:2228:10 (2), tcp:2228:11 (2), tcp:2228:12 (2), tcp:2228:13 (2), tcp:2228:14 (2), tcp:2228:15 (2), tcp:2228:16 (2), tcp:2228:17 (2), tcp:2228:18 (2), tcp:2228:19 (2), tcp:2228:20 (2), tcp:2228:21 (2), tcp:2228:22 (2), tcp:2228:23 (2), tcp:2228:24 (2), tcp:2228:25 (2), tcp:2228:26 (2), tcp:2228:27 (2), tcp:2228:28 (2), tcp:2228:29 (2), tcp:2228:30 (2), tcp:2228:31 (2), tcp:2228:32 (2), tcp:2228:33 (2)  •  @__n__ (63) : 265 (1), 267 (1), 268 (1), 269 (1), 270 (1), 271 (1), 272 (1), 273 (1), 274 (1), 275 (1), 276 (1), 277 (1), 278 (1), 279 (1), 280 (1), 281 (1), 282 (1), 283 (1), 284 (1), 285 (1), 286 (1), 287 (1), 288 (1), 289 (1), 290 (1), 291 (1), 292 (1), 293 (1), 294 (1), 295 (1), 296 (1), 297 (1), 298 (1), 299 (1), 300 (1), 301 (1), 302 (1), 303 (1), 304 (1), 305 (1), 306 (1), 307 (1), 308 (1), 309 (1), 310 (1), 311 (1), 312 (1), 313 (1), 314 (1), 315 (1), 316 (1), 317 (1), 318 (1), 319 (1), 320 (1), 321 (1), 322 (1), 323 (1), 324 (1), 325 (1), 326 (1), 327 (1), 328 (1)  •  @__rendition__ (57) : simple:additions (57)|
-|16.|__q__|3||
-|17.|__signed__|1||
-|18.|__text__|2| @__xml:lang__ (2) : eng (0)|
+|11.|__head__|2||
+|12.|__note__|56| @__place__ (56) : margin (56)|
+|13.|__p__|17||
+|14.|__pb__|66| @__facs__ (66) : tcp:2228:1 (2), tcp:2228:2 (2), tcp:2228:3 (2), tcp:2228:4 (2), tcp:2228:5 (2), tcp:2228:6 (2), tcp:2228:7 (2), tcp:2228:8 (2), tcp:2228:9 (2), tcp:2228:10 (2), tcp:2228:11 (2), tcp:2228:12 (2), tcp:2228:13 (2), tcp:2228:14 (2), tcp:2228:15 (2), tcp:2228:16 (2), tcp:2228:17 (2), tcp:2228:18 (2), tcp:2228:19 (2), tcp:2228:20 (2), tcp:2228:21 (2), tcp:2228:22 (2), tcp:2228:23 (2), tcp:2228:24 (2), tcp:2228:25 (2), tcp:2228:26 (2), tcp:2228:27 (2), tcp:2228:28 (2), tcp:2228:29 (2), tcp:2228:30 (2), tcp:2228:31 (2), tcp:2228:32 (2), tcp:2228:33 (2)  •  @__n__ (63) : 265 (1), 267 (1), 268 (1), 269 (1), 270 (1), 271 (1), 272 (1), 273 (1), 274 (1), 275 (1), 276 (1), 277 (1), 278 (1), 279 (1), 280 (1), 281 (1), 282 (1), 283 (1), 284 (1), 285 (1), 286 (1), 287 (1), 288 (1), 289 (1), 290 (1), 291 (1), 292 (1), 293 (1), 294 (1), 295 (1), 296 (1), 297 (1), 298 (1), 299 (1), 300 (1), 301 (1), 302 (1), 303 (1), 304 (1), 305 (1), 306 (1), 307 (1), 308 (1), 309 (1), 310 (1), 311 (1), 312 (1), 313 (1), 314 (1), 315 (1), 316 (1), 317 (1), 318 (1), 319 (1), 320 (1), 321 (1), 322 (1), 323 (1), 324 (1), 325 (1), 326 (1), 327 (1), 328 (1)  •  @__rendition__ (57) : simple:additions (57)|
+|15.|__q__|3||
+|16.|__signed__|1||
+|17.|__text__|2| @__xml:lang__ (2) : eng (0)|
